@@ -291,8 +291,8 @@ int main(int argc, char* argv[])
             glUniform3f(lightDiffuseLocation_0,0.8f,0.8f,0.8f);
             glUniform3f(lightSpecularLocation_0,1.0f,1.0f,1.0f);
             glUniform1f(lightConstantLocation_0,1.0f);
-            glUniform1f(lightLinearLocation_0,0.0009f);
-            glUniform1f(lightQuadraticLocation_0,0.00032f);
+            glUniform1f(lightLinearLocation_0,0.09f);
+            glUniform1f(lightQuadraticLocation_0,0.032f);
 
             glUniform3f(lightPositionLocation_1,
                         pointLightPositions[1].x,

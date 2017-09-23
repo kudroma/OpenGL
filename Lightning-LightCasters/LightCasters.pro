@@ -11,11 +11,11 @@ TEMPLATE = app
 
 INCLUDEPATH += C:\Users\user\Desktop\OpenGL\glfw-3.2.1\include\GLFW
 INCLUDEPATH += C:\Users\user\Desktop\OpenGL\glfw-3.2.1\src
-INCLUDEPATH += D:\programmingStudy\OpenGL\glad
+INCLUDEPATH += C:\OpenGL\glad\glad\include
 INCLUDEPATH += C:\OpenGL\glm
 
 LIBS += -LC:\Users\user\Desktop\OpenGL\glfw-3.2.1\build\src -lglfw3
-LIBS += -LD:\programmingStudy\OpenGL -lglad
+LIBS += -LC:\OpenGL\glad\glad -lglad
 LIBS += -LC:\Qt\Tools\mingw530_32\i686-w64-mingw32\lib -lopengl32
 
 HEADERS += \

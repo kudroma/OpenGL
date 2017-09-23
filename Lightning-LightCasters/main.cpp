@@ -213,9 +213,9 @@ int main(int argc, char* argv[])
         auto lightCutOffLocation = glGetUniformLocation(programID,"light.cutOff");
         auto lightOuterCutOffLocation = glGetUniformLocation(programID,"light.outerCutOff");
 
-//        unsigned int lightModelLocation = glGetUniformLocation(lightProgramID,"model");
-//        unsigned int lightViewLocation = glGetUniformLocation(lightProgramID,"view");
-//        unsigned int lightProjectionLocation = glGetUniformLocation(lightProgramID,"projection");
+        unsigned int lightModelLocation = glGetUniformLocation(lightProgramID,"model");
+        unsigned int lightViewLocation = glGetUniformLocation(lightProgramID,"view");
+        unsigned int lightProjectionLocation = glGetUniformLocation(lightProgramID,"projection");
 
         glm::vec3 cubePositions[] = {
           glm::vec3( 0.0f,  0.0f,  0.0f),
@@ -296,15 +296,15 @@ int main(int argc, char* argv[])
             }
 
 
-//            glUseProgram(lightProgramID);
-//            glBindVertexArray(lightVAO);
-//            glm::mat4 modelLight = glm::mat4();
-//            modelLight = glm::translate(modelLight, lightPosAfterRotation);
-//            modelLight = glm::scale(modelLight, glm::vec3(0.2f));
-//            glUniformMatrix4fv(lightModelLocation, 1, GL_FALSE, glm::value_ptr(modelLight));
-//            glUniformMatrix4fv(lightViewLocation, 1, GL_FALSE, glm::value_ptr(view));
-//            glUniformMatrix4fv(lightProjectionLocation, 1, GL_FALSE, glm::value_ptr(projection));
-//            glDrawArrays(GL_TRIANGLES, 0, 36);
+            glUseProgram(lightProgramID);
+            glBindVertexArray(lightVAO);
+            glm::mat4 modelLight = glm::mat4();
+            modelLight = glm::translate(modelLight, lightPosAfterRotation);
+            modelLight = glm::scale(modelLight, glm::vec3(0.2f));
+            glUniformMatrix4fv(lightModelLocation, 1, GL_FALSE, glm::value_ptr(modelLight));
+            glUniformMatrix4fv(lightViewLocation, 1, GL_FALSE, glm::value_ptr(view));
+            glUniformMatrix4fv(lightProjectionLocation, 1, GL_FALSE, glm::value_ptr(projection));
+            glDrawArrays(GL_TRIANGLES, 0, 36);
 
             glfwSwapBuffers(window);
             glfwPollEvents();

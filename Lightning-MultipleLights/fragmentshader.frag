@@ -7,9 +7,8 @@ in vec2 TexCoords;
 out vec4 FragColor;
 
 struct Material{
-    vec3 ambient;
-    vec3 diffuse;
-    vec3 specular;
+    sampler2D diffuse;
+    sampler2D specular;
     float shiness;
 };
 
@@ -30,32 +29,34 @@ struct PointLight
     vec3 ambient;
     vec3 diffuse;
     vec3 specular;
-}
+};
 
-uniform DirLight dirLight;
 #define NR_POINT_LIGHTS 4
+uniform DirLight dirLight;
 uniform PointLight pointLights[NR_POINT_LIGHTS];
-vec3 Material material;
+uniform Material material;
+uniform vec3 viewPos;
 
 vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir);
-vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 ViewDir);
+vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir);
 
 void main()
 {
     // properties
     vec3 norm = normalize(Normal);
     vec3 viewDir = normalize(viewPos - FragPos);
-    // phase 1: directional lightning
+//    // phase 1: directional lightning
     vec3 result = CalcDirLight(dirLight,norm,viewDir);
-    // phase 2: point lights
+//    // phase 2: point lights
     for(int i = 0; i < NR_POINT_LIGHTS;i++)
     {
         result += CalcPointLight(pointLights[i],norm,FragPos,viewDir);
     }
-    // phase 3: Spot light
-    //result += CalcSpotLight(spotLight, norm, FragPos, viewDir);
+//    // phase 3: Spot light
+//    //result += CalcSpotLight(spotLight, norm, FragPos, viewDir);
 
-    FragColor = vec4(output,1.0);
+    FragColor = vec4(result,1.0);
+    //FragColor = vec4(1.0);
 }
 
 vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir)
@@ -73,7 +74,7 @@ vec3 CalcDirLight(DirLight light, vec3 normal, vec3 viewDir)
     return (ambient + diffuse + specular);
 }
 
-vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 ViewDir)
+vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir)
 {
     vec3 lightDir = normalize(light.position - fragPos);
     // diffuse shading

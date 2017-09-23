@@ -30,6 +30,6 @@ SOURCES += \
 
 DISTFILES += \
     vertexshader.vert \
-    myDemo \
     lightvertexshader.vert \
-    fragmentshader.frag
+    fragmentshader.frag \
+    lightfragmentshader.frag
