@@ -1,0 +1,19 @@
+﻿AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwInit в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwTerminate в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwWindowHint в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwCreateWindow в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwWindowShouldClose в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSetWindowShouldClose в функции "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSetFramebufferSizeCallback в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwPollEvents в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSetInputMode в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwGetKey в функции "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSetCursorPosCallback в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSetScrollCallback в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwGetTime в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwMakeContextCurrent в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSwapBuffers в функции main
+AdvancedOpenGLStencilTesting.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwGetProcAddress в функции main
+C:\Program Files\Assimp\lib\x64\assimp.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\OpenGL\glfw\build\src\Debug\glfw3dll.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\programmingStudy\OpenGL\AdvancedOpenGL_StencilTesting\x64\Debug\AdvancedOpenGL_StencilTesting.exe : fatal error LNK1120: неразрешенных внешних элементов: 16

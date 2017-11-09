@@ -193,7 +193,7 @@ int main(int argc, char* argv[])
 //        unsigned int programID = program_directionalLight->programID();
         // auto programID = program_attenuationLight->programID();
         //auto programID = program_spotLight->programID();
-        //unsigned int lightProgramID = lightProgram->programID();
+        unsigned int lightProgramID = lightProgram->programID();
         auto programID = program_smoothspotLight->programID();
         unsigned int modelLocation = glGetUniformLocation(programID,"model");
         unsigned int viewLocation = glGetUniformLocation(programID,"view");
@@ -241,11 +241,11 @@ int main(int argc, char* argv[])
             lightPosition = camera.Position;
             lightDirection = camera.Front;
 
-//            float angle = 0.0001;
-//            float positionV = 0.2;
-//            glm::vec3 lightPosAfterRotation = lightPosition;
-//            lightPosAfterRotation.x = angle + glm::sin(glfwGetTime()*positionV)*glm::radians(360.0f);
-//            lightPosAfterRotation.z = angle + glm::cos(glfwGetTime()*positionV)*glm::radians(360.0f);
+            float angle = 0.0001;
+            float positionV = 0.2;
+            glm::vec3 lightPosAfterRotation = lightPosition;
+            lightPosAfterRotation.x = angle + glm::sin(glfwGetTime()*positionV)*glm::radians(360.0f);
+            lightPosAfterRotation.z = angle + glm::cos(glfwGetTime()*positionV)*glm::radians(360.0f);
 
             glm::vec3 lightColor = glm::vec3(1.0f, 1.0f, 1.0f);
 //            float lightV = 0.2;
@@ -277,7 +277,7 @@ int main(int argc, char* argv[])
             glUniform3f(lightDiffuseLocation, diffuseColor.x, diffuseColor.y, diffuseColor.z);
             glUniform3f(lightSpecularLocation, 1.0f, 1.0f, 1.0f);
             glUniform3f(lightDirectionLocation, lightDirection.x, lightDirection.y, lightDirection.z);
-//            glUniform3f(lightPositionLocation,lightPosAfterRotation.x,lightPosAfterRotation.y,lightPosAfterRotation.z);
+            glUniform3f(lightPositionLocation,lightPosAfterRotation.x,lightPosAfterRotation.y,lightPosAfterRotation.z);
             glUniform3f(lightPositionLocation,lightPosition.x,lightPosition.y,lightPosition.z);
             glUniform1f(lightConstantLocation,1.0f);
             glUniform1f(lightLinearLocation, 0.027f);

@@ -1,0 +1,5 @@
+﻿  AdvancedOpenGLInstancing1.cpp
+d:\programmingstudy\opengl\advancedopengl_instancing1\advancedopengl_instancing1\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_instancing1\advancedopengl_instancing1\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+  AdvancedOpenGL_Instancing1.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Instancing1\Debug\AdvancedOpenGL_Instancing1.exe
+  AdvancedOpenGL_Instancing1.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Instancing1\Debug\AdvancedOpenGL_Instancing1.pdb (Partial PDB)

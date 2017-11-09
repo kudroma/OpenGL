@@ -1,0 +1,15 @@
+﻿  AdvancedOpenGLDepthTesting.cpp
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(185): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(271): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(272): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(276): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(277): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(279): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(280): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_depthtesting\advancedopengl_depthtesting\advancedopengldepthtesting.cpp(289): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_DepthTesting.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_DepthTesting\Debug\AdvancedOpenGL_DepthTesting.exe
+  AdvancedOpenGL_DepthTesting.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_DepthTesting\Debug\AdvancedOpenGL_DepthTesting.pdb (Partial PDB)

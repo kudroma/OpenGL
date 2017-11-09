@@ -1,0 +1,15 @@
+﻿  AdvancedOpenGLFaceCulling.cpp
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(217): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(328): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(329): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(333): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(334): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(336): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(337): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_faceculling\advancedopengl_faceculling\advancedopenglfaceculling.cpp(346): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_FaceCulling.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_FaceCulling\Debug\AdvancedOpenGL_FaceCulling.exe
+  AdvancedOpenGL_FaceCulling.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_FaceCulling\Debug\AdvancedOpenGL_FaceCulling.pdb (Partial PDB)

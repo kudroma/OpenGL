@@ -1,0 +1,15 @@
+﻿  AdvancedOpenGLFramebuffer.cpp
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(234): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(341): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(342): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(346): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(347): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(349): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(350): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_framebuffer\advancedopengl_framebuffer\advancedopenglframebuffer.cpp(359): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_Framebuffer.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Framebuffer\Debug\AdvancedOpenGL_Framebuffer.exe
+  AdvancedOpenGL_Framebuffer.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Framebuffer\Debug\AdvancedOpenGL_Framebuffer.pdb (Partial PDB)

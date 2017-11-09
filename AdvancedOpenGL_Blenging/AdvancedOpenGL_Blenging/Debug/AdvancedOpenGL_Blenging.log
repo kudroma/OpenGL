@@ -1,0 +1,15 @@
+﻿  AdvancedOpenGLBlenging.cpp
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(217): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(324): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(325): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(329): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(330): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(332): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(333): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_blenging\advancedopengl_blenging\advancedopenglblenging.cpp(342): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_Blenging.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Blenging\Debug\AdvancedOpenGL_Blenging.exe
+  AdvancedOpenGL_Blenging.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Blenging\Debug\AdvancedOpenGL_Blenging.pdb (Partial PDB)

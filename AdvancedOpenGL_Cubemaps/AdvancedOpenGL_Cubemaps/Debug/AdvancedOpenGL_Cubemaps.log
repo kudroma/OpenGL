@@ -1,0 +1,15 @@
+﻿  AdvancedOpenGLCubemaps.cpp
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(226): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(318): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(319): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(323): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(324): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(326): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(327): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_cubemaps\advancedopengl_cubemaps\advancedopenglcubemaps.cpp(336): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_Cubemaps.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Cubemaps\Debug\AdvancedOpenGL_Cubemaps.exe
+  AdvancedOpenGL_Cubemaps.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Cubemaps\Debug\AdvancedOpenGL_Cubemaps.pdb (Partial PDB)

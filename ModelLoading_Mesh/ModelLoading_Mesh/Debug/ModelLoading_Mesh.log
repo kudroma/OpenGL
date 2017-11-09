@@ -1,0 +1,13 @@
+﻿  ModelLoadingMesh.cpp
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(98): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(172): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(173): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(177): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(178): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(180): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(181): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\modelloading_mesh\modelloading_mesh\modelloadingmesh.cpp(190): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ModelLoading_Mesh.vcxproj -> D:\programmingStudy\OpenGL\ModelLoading_Mesh\Debug\ModelLoading_Mesh.exe
+  ModelLoading_Mesh.vcxproj -> D:\programmingStudy\OpenGL\ModelLoading_Mesh\Debug\ModelLoading_Mesh.pdb (Partial PDB)

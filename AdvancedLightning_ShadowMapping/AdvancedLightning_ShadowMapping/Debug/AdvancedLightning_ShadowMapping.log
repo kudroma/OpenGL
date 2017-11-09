@@ -1,0 +1,15 @@
+﻿  AdvancedLightningShadowMapping.cpp
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(42): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(43): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(171): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(424): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(425): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(429): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(430): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(432): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(433): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedlightning_shadowmapping\advancedlightning_shadowmapping\advancedlightningshadowmapping.cpp(442): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedLightning_ShadowMapping.vcxproj -> D:\programmingStudy\OpenGL\AdvancedLightning_ShadowMapping\Debug\AdvancedLightning_ShadowMapping.exe
+  AdvancedLightning_ShadowMapping.vcxproj -> D:\programmingStudy\OpenGL\AdvancedLightning_ShadowMapping\Debug\AdvancedLightning_ShadowMapping.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  AdvancedOpenGLGeometryShader.cpp
+d:\programmingstudy\opengl\advancedopengl_geometryshader\advancedopengl_geometryshader\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_geometryshader\advancedopengl_geometryshader\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+  AdvancedOpenGL_GeometryShader.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_GeometryShader\Debug\AdvancedOpenGL_GeometryShader.exe
+  AdvancedOpenGL_GeometryShader.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_GeometryShader\Debug\AdvancedOpenGL_GeometryShader.pdb (Partial PDB)

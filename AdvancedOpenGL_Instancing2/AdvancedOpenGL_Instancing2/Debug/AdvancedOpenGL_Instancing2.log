@@ -1,0 +1,18 @@
+﻿  AdvancedOpenGLInstancing2.cpp
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(100): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(117): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(121): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(167): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(251): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(252): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(256): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(257): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(259): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(260): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_instancing2\advancedopengl_instancing2\advancedopenglinstancing2.cpp(269): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_Instancing2.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Instancing2\Debug\AdvancedOpenGL_Instancing2.exe
+  AdvancedOpenGL_Instancing2.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_Instancing2\Debug\AdvancedOpenGL_Instancing2.pdb (Partial PDB)

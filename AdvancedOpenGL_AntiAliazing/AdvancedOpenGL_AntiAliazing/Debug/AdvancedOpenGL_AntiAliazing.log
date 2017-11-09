@@ -1,0 +1,15 @@
+﻿  AdvancedOpenGLAntiAliazing.cpp
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(217): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(306): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(307): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(311): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(312): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(314): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(315): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_antialiazing\advancedopengl_antialiazing\advancedopenglantialiazing.cpp(324): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_AntiAliazing.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_AntiAliazing\Debug\AdvancedOpenGL_AntiAliazing.exe
+  AdvancedOpenGL_AntiAliazing.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_AntiAliazing\Debug\AdvancedOpenGL_AntiAliazing.pdb (Partial PDB)

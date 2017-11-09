@@ -1,0 +1,16 @@
+﻿  AdvancedOpenGLStencilTesting.cpp
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\files\shader.h(64): warning C4101: infoLog: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\files\shader.h(63): warning C4101: success: неиспользованная локальная переменная
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(187): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(245): warning C4305: инициализация: усечение из "double" в "float"
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(312): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(313): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(317): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(318): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(320): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(321): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmingstudy\opengl\advancedopengl_stenciltesting\advancedopengl_stenciltesting\advancedopenglstenciltesting.cpp(330): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  AdvancedOpenGL_StencilTesting.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_StencilTesting\Debug\AdvancedOpenGL_StencilTesting.exe
+  AdvancedOpenGL_StencilTesting.vcxproj -> D:\programmingStudy\OpenGL\AdvancedOpenGL_StencilTesting\Debug\AdvancedOpenGL_StencilTesting.pdb (Partial PDB)
